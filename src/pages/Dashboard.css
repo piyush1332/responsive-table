@@ -1,0 +1,47 @@
+.app-table th{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+.app-table td{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+.app-table {
+    table-layout:fixed;
+    width: 100%;
+}
+
+.dashboard-table-holder {
+    overflow: hidden;
+}
+​
+.dashboard-margin-top {
+    margin-top: 20px;
+}
+
+.dashboard-container {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.dashboard-heading {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.dashboard-header {
+    overflow: auto;
+}
+
+.dashboard-date-filter {
+    float: left;
+}
+
+.dashboard-setting-button {
+    float: right;
+}

@@ -1,0 +1,17 @@
+.custom-table-header {
+    background-color: #eee;
+}
+
+.custom-table-dragable {
+    width: 5px;
+    background-color: blue;
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    cursor: pointer;
+}
+
+.custom-table-header-parent {
+    position: relative;
+}
